@@ -1,4 +1,4 @@
-# github-search
+# axios-github-search
 
 ## About
 
